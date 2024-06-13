@@ -33,22 +33,22 @@ export default function Shopnav() {
     }, []);
     return (
         <div>
-            <nav className="bg-whiteyy md:bg-[#451606] border-gray-200">
+            <nav className="bg-white md:bg-[#451606] border-gray-200">
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl text-[0.2em] p-4 md:text-base">
                     <div className="hidden md:block">
                         <div className="flex items-center space-x-3">
                             <svg className="w-5 h-5 text-[#FE1846]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" viewBox="0 0 24 24">
                                 <path fillRule="evenodd" d="M11.906 1.994a8.002 8.002 0 0 1 8.09 8.421 7.996 7.996 0 0 1-1.297 3.957.996.996 0 0 1-.133.204l-.108.129c-.178.243-.37.477-.573.699l-5.112 6.224a1 1 0 0 1-1.545 0L5.982 15.26l-.002-.002a18.146 18.146 0 0 1-.309-.38l-.133-.163a.999.999 0 0 1-.13-.202 7.995 7.995 0 0 1 6.498-12.518ZM15 9.997a3 3 0 1 1-5.999 0 3 3 0 0 1 5.999 0Z" clipRule="evenodd"/>
                             </svg>
-                           <small className="self-center text-[13px] font-medium whitespace-nowrap text-white leading-[16px]">
-                               13, Golden Ray Estate beside Readington school, <br />
+                            <small className="self-center text-[13px] font-medium whitespace-nowrap text-white leading-[16px]">
+                                13, Golden Ray Estate beside Readington school, <br />
                                 Olokonla, Lekki-Epe Express way, Lagos State.
                             </small>
                         </div>
                     </div>
                     <div className="block md:hidden">
                         <Link href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-                            <Image src="/logo.png" className="h-10" alt="dnstruture logo" width={100} height={100} />
+                            <Image src="/logo.jpg" className="h-10" alt="dnstruture logo" width={100} height={100} />
                         </Link>
                     </div>
                     {/* <Link href="/" className="flex items-center space-x-3 rtl:space-x-reverse block md:hidden">
@@ -83,12 +83,12 @@ export default function Shopnav() {
                     </div>
                 </div>
             </nav>
-            <nav className="bg-gray-50 shadow-xl border-b">
+            <nav className="bg-gray-50 shadow-xl border-y">
                 <div className="max-w-screen-xl px-4 py-3 mx-auto flex flex-wrap items-center justify-between">
                     <div>
                         <div className="hidden md:block ml-5">
                             <Link href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-                                <Image src="/logo.png" className="h-10" alt="dnstruture logo" width={150} height={170} />
+                                <Image src="/logo.jpg" className="h-10" alt="dnstruture logo" width={150} height={170} />
                             </Link>
                         </div>
                     </div>
