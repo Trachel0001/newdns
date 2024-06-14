@@ -938,35 +938,6 @@ export const imag = {
         smallprice: "19, 200",
         largeprice: "950, 000",
         },
-        {
-        id: 3,
-        image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
-        title: "Dining",
-        name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
-        info: 
-        `
-            ABOUT THIS PLAN (A  CONTEMPORARY 4 UNITS OF 2 BEDROOM FLATS SITTING ON AN 450 SQ.M LAND)
-    
-            DRAWING INFO
-            
-            GROUND FLOOR PLAN
-            ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            FIRST FLOOR PLAN
-            ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            
-            DRAWING ID NO : KAFL29
-        `,
-        smallprice: "19, 200",
-        largeprice: "950, 000",
-        }
     ],
     hotel: [
         {
@@ -1252,35 +1223,6 @@ export const imag = {
         id: 2,
         image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
         title: "Living",
-        name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
-        info: 
-        `
-            ABOUT THIS PLAN (A  CONTEMPORARY 4 UNITS OF 2 BEDROOM FLATS SITTING ON AN 450 SQ.M LAND)
-    
-            DRAWING INFO
-            
-            GROUND FLOOR PLAN
-            ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            FIRST FLOOR PLAN
-            ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            
-            DRAWING ID NO : KAFL29
-        `,
-        smallprice: "19, 200",
-        largeprice: "950, 000",
-        },
-        {
-        id: 3,
-        image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
-        title: "Dining",
         name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
         info: 
         `
@@ -2379,182 +2321,159 @@ export const land = {
     sq5 :[
         {
         id: 1,
-        image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
+        image: ['/BUNGALOW 6.jpg', "/BUNGALOW 3.jpg","/BUNGALOW.jpg",],
         title: "Master",
-        name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
+        name: `A  CONTEMPORARY 5 Bedroom Bungalow with Pent Floor sitting on a 970 Sq.m Land`,
         info: 
-        `
-            ABOUT THIS PLAN (A  CONTEMPORARY 4 UNITS OF 2 BEDROOM FLATS SITTING ON AN 450 SQ.M LAND)
-    
+            `
+            ABOUT THIS PLAN (A  CONTEMPORARY 5 Bedroom Bungalow with Pent Floor sitting on a 970 Sq.m Land)
             DRAWING INFO
-    
             GROUND FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
+            ANTE ROOM
+            PRIVATE OFFICE
+            W.C
+            MAIN LOUNGE
+            DINNING
+            KITCHEN WITH STORE
+            KIDS PLAY ROOM
+            LAUNDRY
+            BOX ROOM
+            3 BEDROOMS
+            STUDY ROOM
+            MAIDS ROOM
             
             FIRST FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            
-            DRAWING ID NO : KAFL29
-        `,
-        smallprice: "19, 200",
-        largeprice: "950, 000",
+            MASTER'S LOUNGE
+            MASTER'S BEDROOM
+            WITH BIG CLOSET AND BATHROOM
+                
+                
+                DRAWING ID NO : JUBUO6
+            `,
+        smallprice: "20, 800",
+        largeprice: "200, 000",
         },
         {
         id: 2,
-        image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
-        title: "Living",
-        name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
-        info: 
-        `
-            ABOUT THIS PLAN (A  CONTEMPORARY 4 UNITS OF 2 BEDROOM FLATS SITTING ON AN 450 SQ.M LAND)
-    
-            DRAWING INFO
-            
-            GROUND FLOOR PLAN
-            ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            FIRST FLOOR PLAN
-            ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            
-            DRAWING ID NO : KAFL29
-        `,
-        smallprice: "19, 200",
-        largeprice: "950, 000",
-        },
-        {
-        id: 3,
-        image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
+        image: ['/BUNGALOW 1.jpg', "/BUNGALOW 3(2).jpg", "/BUNGALOW 4.jpg",],
         title: "Dining",
-        name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
+        name: `A  CONTEMPORARY 3 BEDROOM BUNGALOW FLATS SITTING ON AN 950 SQ.M LAND`,
         info: 
-        `
-            ABOUT THIS PLAN (A  CONTEMPORARY 4 UNITS OF 2 BEDROOM FLATS SITTING ON AN 450 SQ.M LAND)
-    
+            `
+            ABOUT THIS PLAN (A  CONTEMPORARY 3 BEDROOM BUNGALOW FLATS SITTING ON AN 950
             DRAWING INFO
             
             GROUND FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            FIRST FLOOR PLAN
-            ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            
-            DRAWING ID NO : KAFL29
-        `,
-        smallprice: "19, 200",
-        largeprice: "950, 000",
-        }
+            ANTE ROOM
+            MAIN LOUNGE
+            DINNING
+            W.C
+            KITCHEN WITH STORE
+            2 BEDROOM ENSUITE
+            MASTER'S BEDROOM WITH BIG CLOSET
+                    
+                    
+                    DRAWING ID NO : DOBUO4
+            `,
+        smallprice: "13, 800",
+        largeprice: "160, 000",
+        },
+
     ],
-    sq5: [
+    sq6 : [
         {
         id: 1,
-        image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
+        image: ['/FLATS 3D.jpg', "/FLATS 3D 3.jpg", "/FLATS 3D 4.jpg",],
         title: "Master",
-        name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
+        name: `A MODERN 12 UNITS OF 2 BEDROOM FLATS WITH 2 UNITS OF 3 BEDROOM LUXURY PENT APARTMENT SITTING ON AN 1600 SQ.M LAND`,
         info: 
-        `
-            ABOUT THIS PLAN (A  CONTEMPORARY 4 UNITS OF 2 BEDROOM FLATS SITTING ON AN 450 SQ.M LAND)
-    
+            `
+            ABOUT THIS PLAN (A MODERN 12 UNITS OF 2 BEDROOM FLATS WITH 2 UNITS OF 3 BEDROOM LUXURY PENT APARTMENT SITTING ON AN 1600 SQ.M LAND)
             DRAWING INFO
-    
             GROUND FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
+            RECEPTION
+            POOL LOUNGE
+            BAR
+            2 ELEVATOR
+            KITCHEN
+            GYM
+            SITTING LOUNGE
             
             FIRST FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            
-            DRAWING ID NO : KAFL29
+            4 UNITS OF 2 BEDROOM FLATS
+            PENT FLOOR PLAN
+            ____________
+            2 UNITS OF 3 BEDROOM APARTMENT
+                
+                
+                DRAWING ID NO : TOFL26
         `,
-        smallprice: "19, 200",
-        largeprice: "950, 000",
+        smallprice: "9, 200",
+        largeprice: "750, 000",
         },
         {
         id: 2,
-        image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
-        title: "Living",
-        name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
+        image: ['/POST12.jpg',],
+        title: "Master",
+        name: `contemporary 6 Units of 4 bedroom terrace duplexes,  sitting on an 1,141 Sq.m Land`,
         info: 
-        `
-            ABOUT THIS PLAN (A  CONTEMPORARY 4 UNITS OF 2 BEDROOM FLATS SITTING ON AN 450 SQ.M LAND)
-    
+            `
+            ABOUT THIS PLAN (contemporary 6 Units of 4 bedroom terrace duplexes,  sitting on an 1,141 Sq.m Land)
             DRAWING INFO
-            
+
             GROUND FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
+            ANTE ROOM
+            MAIN LOUNGE
+            DINNING
+            VISITOR'S W.C
+            KITCHEN WITH STORE
+            GUEST BEDROOMS
+            MAIDS ROOM
+
             FIRST FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
-            
-            DRAWING ID NO : KAFL29
-        `,
-        smallprice: "19, 200",
-        largeprice: "950, 000",
+            FAMILY LOUNGE
+            MASTER'S BEDROOM
+            2 OTHER BEDROOMS EN-SUITE
+                
+                DRAWING ID NO : SOTE06
+            `,
+        smallprice: "20, 200",
+        largeprice: "300, 000",
         },
         {
         id: 3,
-        image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
-        title: "Dining",
-        name: `A CONTEMPORARY SHOPPING MALL, WITH A MULTI PURPOSE HALL, RESTAURANT, LOUNGE/CLUB ON THE PENT FLOOR AND BASEMENT CAR PARK SITTING ON AN 2,450 SQ.M LAND`,
+        image: ['/VIEW23.jpg', "/VIEW 1.jpg",],
+        title: "Living",
+        name: `10 Units of 2 Bedroom terrace duplexes sitting on an 1240 Sq.m Land`,
         info: 
-        `
-            ABOUT THIS PLAN (A  CONTEMPORARY 4 UNITS OF 2 BEDROOM FLATS SITTING ON AN 450 SQ.M LAND)
-    
+            `
+            ABOUT THIS PLAN (10 Units of 2 Bedroom terrace duplexes sitting on an 1240 Sq.m Land)
             DRAWING INFO
             
             GROUND FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
-            
+            LIVING ROOM
+            DINNING
+            KITCHENETTE 
             FIRST FLOOR PLAN
             ————–
-            2 UNITS OF 2 BEDROOM FLATS
-            EACH ALL ROOM EN-SUITE
-            WITH VISITORS TOILET
+            2 BEDROOMS
             
-            
-            DRAWING ID NO : KAFL29
-        `,
-        smallprice: "19, 200",
-        largeprice: "950, 000",
-        }
+                
+                DRAWING ID NO : BATH05
+              `,
+        smallprice: "20, 800",
+        largeprice: "250, 000",
+        },
     ],
-    sq6: [
+    sq7 :[
         {
         id: 1,
         image: ['/master.png', "/living.png", "/exterior.png", "/duplex.png",  "/dining.png"],
